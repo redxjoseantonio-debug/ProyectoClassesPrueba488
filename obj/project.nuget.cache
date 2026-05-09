@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yDCv6A0/rDI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoseMartinez\\RiderProjects\\proyectoWebPrueba\\proyectoWebPrueba\\proyectoWebPrueba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoseMartinez\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\JoseMartinez\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
