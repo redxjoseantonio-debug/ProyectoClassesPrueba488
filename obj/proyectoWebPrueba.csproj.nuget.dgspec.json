@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JoseMartinez\\RiderProjects\\proyectoWebPrueba\\proyectoWebPrueba\\proyectoWebPrueba.csproj": {}
+    "C:\\Users\\Evely\\RiderProjects\\ProyectoClassesPrueba488\\proyectoWebPrueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JoseMartinez\\RiderProjects\\proyectoWebPrueba\\proyectoWebPrueba\\proyectoWebPrueba.csproj": {
+    "C:\\Users\\Evely\\RiderProjects\\ProyectoClassesPrueba488\\proyectoWebPrueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JoseMartinez\\RiderProjects\\proyectoWebPrueba\\proyectoWebPrueba\\proyectoWebPrueba.csproj",
+        "projectUniqueName": "C:\\Users\\Evely\\RiderProjects\\ProyectoClassesPrueba488\\proyectoWebPrueba.csproj",
         "projectName": "proyectoWebPrueba",
-        "projectPath": "C:\\Users\\JoseMartinez\\RiderProjects\\proyectoWebPrueba\\proyectoWebPrueba\\proyectoWebPrueba.csproj",
-        "packagesPath": "C:\\Users\\JoseMartinez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JoseMartinez\\RiderProjects\\proyectoWebPrueba\\proyectoWebPrueba\\obj\\",
+        "projectPath": "C:\\Users\\Evely\\RiderProjects\\ProyectoClassesPrueba488\\proyectoWebPrueba.csproj",
+        "packagesPath": "C:\\Users\\Evely\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Evely\\RiderProjects\\ProyectoClassesPrueba488\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JoseMartinez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Evely\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\JoseMartinez\\.dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Users\\Evely\\.dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
